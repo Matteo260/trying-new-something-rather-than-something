@@ -1,0 +1,8 @@
+.team-photo img {
+  object-fit: cover;
+  object-position: center;
+  transition: transform 0.3s ease-in-out;
+  image-rendering: -webkit-optimize-contrast; 
+  image-rendering: crisp-edges;              
+  image-rendering: pixelated;               
+}
